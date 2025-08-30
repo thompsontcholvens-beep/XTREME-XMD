@@ -38,9 +38,9 @@ PREFIX: process.env.PREFIX || ".",
     // Timezone for the auto-bio feature
     TIME_ZONE: process.env.TIME_ZONE || "Asia/Kolkata",  // Change to your preferred timezone
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "𝐗𝐓𝐑𝐄𝐌𝐄 𝐗𝐌𝐃",
+BOT_NAME: process.env.BOT_NAME || "�SHADOW BOT",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "•᭄͢❈🏴‍☠️𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐗-𝐓𝐑𝐄𝐌𝐄🇦🇱᪣᭄",
+STICKER_NAME: process.env.STICKER_NAME || "•᭄͢❈NIGHT SHADOW ᪣᭄",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -48,15 +48,15 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "528145550855",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "50935380895",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "ᴘʀɪɴᴄᴇ",
+OWNER_NAME: process.env.OWNER_NAME || "NIGHT SHADOW"
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ xᴛʀᴇᴍᴇ*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/e6orj5.jpg",
 // add img for alive msg
-ALIVE_MSG: process.env.ALIVE_MSG || "_ʜɪ ᴅᴇᴀʀ👋 ɪᴍ xᴛʀᴇᴍᴇ xᴍᴅ ᴄʜᴜᴅᴅʏ ʙᴏᴜᴅʏ🦋 ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ғᴏʀ ᴀsɪsᴛ ʏᴏᴜ._",
+ALIVE_MSG: process.env.ALIVE_MSG || "_salut users je suis shadow bot._",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -66,7 +66,7 @@ ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words  
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
-ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
+ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "true",
 // make anti link true,false for groups 
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 // make true for automatic stickers 
@@ -74,13 +74,13 @@ AUTO_REPLY: process.env.AUTO_REPLY || "false",
 // make true or false automatic text reply 
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 // maks true for always online 
-PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
+PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
 // make false if want private mod
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "528145550855",
+DEV: process.env.DEV || "50935380895",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
